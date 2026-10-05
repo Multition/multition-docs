@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title description">
+  <title id="title">Multition — WE connect, YOU collab</title>
+  <desc id="description">Multition — WE connect, YOU collab. Ứng dụng giúp học sinh, sinh viên khám phá cuộc thi, ghép đội thủ công và nhận gợi ý đồng đội từ AI.</desc>
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10283D"/>
+      <stop offset="0.58" stop-color="#0B2135"/>
+      <stop offset="1" stop-color="#071A2C"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#1CCDB2" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#1CCDB2" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-30%" y="-35%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#00101F" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#navy)"/>
+  <path d="M0 0H1920V44H0Z" fill="#19C4AF"/>
+  <circle cx="1650" cy="290" r="600" fill="url(#glow)"/>
+  <path d="M1110 0C1250 128 1360 203 1542 230" fill="none" stroke="#23566A" stroke-width="2" opacity="0.65"/>
+  <path d="M1378 1080C1590 930 1755 908 1920 940" fill="none" stroke="#23566A" stroke-width="2" opacity="0.65"/>
+
+  <!-- Brand mark uses the original logo shapes and palette. -->
+  <rect x="140" y="140" width="340" height="340" rx="64" fill="#FFFFFF" filter="url(#softShadow)"/>
+  <g transform="translate(174 174) scale(1.7)">
+    <path d="M15.2727 22.5456C17.4545 18.9092 21.0909 18.1819 24.7273 20.3638L44.3636 32.7275C48 34.9093 48.7273 38.5457 46.5455 42.1821L26.9091 76.3642C24.7273 80.0006 21.0909 80.7278 17.4545 78.546L4.36364 70.5459C0.727273 68.3641 3.35276e-08 64.7277 2.18182 61.0913L15.2727 22.5456Z" fill="#12263A"/>
+    <path d="M37.8182 74.9096L53.0909 45.8185C62.5455 48.7276 69.8182 44.3639 78.5454 44.3639C90.1818 44.3639 98.9091 50.1822 107.636 58.1822L133.818 81.4551C139.636 86.5461 140.364 93.8188 135.273 98.9098C130.182 104.001 123.636 104.001 117.818 98.9098L104 86.5461L115.636 96.7279C120.727 101.092 120.727 107.637 116.364 112.001C112 116.364 106.182 115.637 101.091 111.274L88.7273 100.364L97.4545 107.637C102.545 112.001 101.818 117.819 97.4545 121.455C93.0909 125.092 87.2727 123.637 82.9091 120.001L70.5455 109.819L78.5454 116.364C82.9091 120.728 81.4545 126.546 77.0909 129.455C72.7273 132.365 66.9091 130.183 63.2727 127.274L32.7273 101.092C26.9091 96.0007 26.1818 88.7279 30.5455 82.1824L37.8182 74.9096Z" fill="#12263A"/>
+    <path d="M116.364 33.4548L136.727 20.3638C141.091 18.1819 144.727 19.6365 146.909 23.2729L158.545 59.6368C160 64.0004 158.545 67.6368 154.909 69.8187L139.636 78.546C135.273 80.7278 131.636 79.2733 129.455 75.6369L113.455 43.6367C111.273 39.273 112.727 35.6366 116.364 33.4548Z" fill="#087E78"/>
+    <path d="M133.818 74.9096L117.818 45.8185C109.091 49.4549 101.818 44.3639 93.0909 43.6367C83.6364 42.9094 76.3636 45.8185 69.8182 50.1822L53.8182 62.5459C48 66.9096 46.5455 73.4551 50.9091 78.546C55.2727 83.6369 62.5455 83.6369 68.3636 79.2733L78.5455 71.2732C83.6364 67.6368 88.7273 67.6368 94.5455 72.0005L118.545 93.0916C124.364 98.1825 131.636 96.7279 136 91.637C139.636 86.5461 138.182 80.0006 133.818 74.9096Z" fill="#087E78" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104.727 86.5461L117.818 98.1825M90.9091 98.1825L102.545 108.364M77.0909 109.092L88 117.819" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <text x="578" y="174" fill="#86C8C1" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="5">TEAM FORMATION</text>
+  <text x="564" y="341" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="180" font-weight="700" letter-spacing="-7">Multition</text>
+  <text x="576" y="444" font-family="Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5" xml:space="preserve"><tspan fill="#3EE3C9">WE connect,</tspan><tspan fill="#FFFFFF"> YOU collab</tspan></text>
+
+  <rect x="140" y="544" width="111" height="8" rx="4" fill="#28D4BA"/>
+  <text x="140" y="635" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">Tìm cuộc thi. Kết nối đồng đội. Cùng lập đội.</text>
+  <text x="145" y="697" fill="#A9C6C8" font-family="Arial, sans-serif" font-size="33">Ứng dụng dành cho học sinh, sinh viên muốn xây dựng đội hình phù hợp cho cuộc thi.</text>
+
+  <!-- Features explain the product while the brand remains the main visual. -->
+  <g font-family="Arial, sans-serif">
+    <rect x="140" y="762" width="524" height="220" rx="30" fill="#143448" stroke="#31596A" stroke-width="2"/>
+    <circle cx="192" cy="817" r="23" fill="#225969"/>
+    <g fill="none" stroke="#3EE3C9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="192" cy="817" r="13"/>
+      <path d="M197 811L189 815L187 823L195 819Z"/>
+    </g>
+    <text x="236" y="831" fill="#FFFFFF" font-size="36" font-weight="700">Khám phá cuộc thi</text>
+    <text x="174" y="895" fill="#ADC9CA" font-size="29">Tìm cuộc thi theo lĩnh vực,</text>
+    <text x="174" y="936" fill="#ADC9CA" font-size="29">địa điểm và thời hạn.</text>
+
+    <rect x="698" y="762" width="524" height="220" rx="30" fill="#143448" stroke="#31596A" stroke-width="2"/>
+    <circle cx="750" cy="817" r="23" fill="#225969"/>
+    <g fill="none" stroke="#3EE3C9" stroke-width="3" stroke-linecap="round">
+      <circle cx="745" cy="812" r="6"/>
+      <path d="M734 827C734 817 756 817 756 827M760 810V822M754 816H766"/>
+    </g>
+    <text x="794" y="831" fill="#FFFFFF" font-size="36" font-weight="700">Ghép đội thủ công</text>
+    <text x="732" y="895" fill="#ADC9CA" font-size="29">Xem hồ sơ, đăng tuyển,</text>
+    <text x="732" y="936" fill="#ADC9CA" font-size="29">gửi lời mời và ứng tuyển.</text>
+
+    <rect x="1256" y="762" width="524" height="220" rx="30" fill="#0D4C53" stroke="#2CAB9E" stroke-width="2"/>
+    <circle cx="1308" cy="817" r="23" fill="#176B6A"/>
+    <g fill="none" stroke="#71F4DB" stroke-width="3" stroke-linecap="round">
+      <circle cx="1305" cy="814" r="9"/>
+      <path d="M1312 821L1320 829M1305 810V818M1301 814H1309"/>
+    </g>
+    <text x="1352" y="831" fill="#FFFFFF" font-size="36" font-weight="700">AI hỗ trợ ghép đội</text>
+    <text x="1290" y="895" fill="#BCE6DF" font-size="29">Tìm người theo kỹ năng còn thiếu.</text>
+    <text x="1290" y="936" fill="#BCE6DF" font-size="29">Gợi ý để bạn tự quyết định.</text>
+  </g>
+</svg>
