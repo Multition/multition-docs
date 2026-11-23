@@ -12,12 +12,10 @@
 
 | Nội dung | Liên kết |
 | --- | --- |
-| Project documentation | [Báo cáo Multition — Assignment 1 (PDF)](reports/multition-assignment-1.pdf) |
+| Project documentation | [Wiki — Product Discovery & Foundation](https://github.com/Multition/multition-docs/wiki) · [Báo cáo BTL 1 (PDF)](reports/multition-assignment-1.pdf) |
 | GitHub Organization | [Multition](https://github.com/Multition) |
-| GitHub Projects | [Danh sách Projects của Organization](https://github.com/orgs/Multition/projects) |
+| GitHub Project | [Multition · MVP Development](https://github.com/orgs/Multition/projects/3) |
 | Research evidence | [Kết quả khảo sát tìm kiếm đồng đội](https://docs.google.com/spreadsheets/d/1psu8uWvu9DSsDXeeGCLJ9KWcaDzIQKc1x70J1XTbzUg/edit?usp=sharing) |
-
-Báo cáo trình bày bài toán, người dùng mục tiêu, lý do chọn mobile, các giả định, nghiên cứu người dùng và giải pháp thay thế, Business Canvas, MVP, Impact–Effort Matrix, user stories, user flows và kế hoạch phát triển.
 
 ## Phạm vi MVP
 
